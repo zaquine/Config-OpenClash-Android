@@ -1,1 +1,1 @@
-# Config-OC-Android
+# Simple Load Balance untuk Openclash Android
