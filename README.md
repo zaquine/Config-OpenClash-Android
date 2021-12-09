@@ -8,3 +8,12 @@
   
 - Untuk config -direct,,setting MODE ke RULE
   (Settings -> Override -> Mode -> pilih Rule Mode)
+
+
+- CONFIGURATION:
+- simple-loadbalance
+- gaming-direct
+- whatsapp-direct
+- youtube-direct
+- tiktok-direct
+- youtube-tiktok-direct
